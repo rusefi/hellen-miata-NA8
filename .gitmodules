@@ -1,0 +1,6 @@
+[submodule "kicad-libraries"]
+	path = kicad-libraries
+	url = https://github.com/rusefi/kicad-libraries
+[submodule "hellen-one"]
+	path = hellen-one
+	url = https://github.com/andreika-git/hellen-one
