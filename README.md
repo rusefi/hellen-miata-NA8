@@ -1,4 +1,4 @@
-# hellen-NA8_96
+# hellen-miata-NA8
 
 [Public Issue Tracker](https://github.com/rusefi/hellen-NA8-96-issues)
 
